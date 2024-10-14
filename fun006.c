@@ -34,8 +34,7 @@ int main()
         }
         printf("\n");
     } */
-   
-    sum_fun(2,2,sum);
 
+    sum_fun(2,2,sum);
     return;
 }
